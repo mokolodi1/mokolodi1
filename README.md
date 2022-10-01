@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Teo!
+
+[My LinkedIn](https://www.linkedin.com/in/daniel-teo-fleming/)
+
+### Education
+
+I went to the premier university for software startup founders and developers in France: École 42. 
+
+[![tfleming's 42 stats](https://badge42.vercel.app/api/v2/cl4fdwz23012209l88qxpksbl/stats?cursusId=21&coalitionId=2)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **mokolodi1/mokolodi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
